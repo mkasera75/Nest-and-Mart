@@ -1,0 +1,26 @@
+.product-title{
+    font-size: 15px !important;
+    margin: 0 !important;
+}
+.p-card-description{
+    color: #253D4E !important;
+    font-size: 40px !important;
+    font-weight: bold;
+    margin: 0;
+    font-family: "Reddit Mono", monospace !important;
+    
+}
+.product-rating{
+    display: flex;
+    align-items: center;
+}
+.product-soldby{
+    font-size: 15px !important;
+    margin-bottom: 0 !important;
+    font-weight: bold !important;
+    padding: 0 !important;
+}
+.product-price{
+    font-size: 45px;
+    font-weight: 400;
+}

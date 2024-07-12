@@ -1,0 +1,12 @@
+.s-card-item{
+    margin: 10px auto !important;
+    position: relative !important;
+}
+.card-btn{
+    position: absolute;
+    top: 0;
+    background-color: #f3e5d8 !important;
+    border-color: #f3e5d8 !important;
+    border-top-left-radius: 20% !important;
+    border-bottom-right-radius: 20% !important;
+}

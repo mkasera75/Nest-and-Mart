@@ -1,0 +1,28 @@
+/* .p-card-item{
+    position: relative !important;
+}
+.p-card-btn{
+    position: absolute;
+    top: 0;
+    left: 0;
+} */
+.title-category{
+    display: flex;
+}
+.category-name{
+    display: flex;
+    font-size: 1rem;
+}
+.category-list{
+    display: flex;
+    padding: 0px ;
+    margin: 0px;
+    align-items: center;
+    height: 70%;
+}
+.category-list:hover{
+    cursor: pointer;
+}
+.nav-pills .nav-link.active{
+    background-color: green !important;
+}

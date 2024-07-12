@@ -1,0 +1,28 @@
+.cart-quantities{
+    display: flex !important;
+    background-color: white !important;
+    border: 1px solid green !important;
+    border-radius: 5px !important;
+    color: green !important;
+    height:35px !important;
+    width: 90px;
+}
+.quantity-button{
+    background: transparent !important;
+    border: none !important;
+    color: green !important;
+    height: 100% !important;
+    padding: 0 5px !important;
+}
+.quantity-inp{
+    max-width: 60px !important;
+    text-align: center !important;
+    margin: 0 5px !important;
+    background: transparent !important;
+    border: none !important;
+    color: green !important;
+    border-left: 1px solid green !important;
+    border-right: 1px solid green !important;
+    height: 100% !important;
+    border-radius: 0 !important;
+}

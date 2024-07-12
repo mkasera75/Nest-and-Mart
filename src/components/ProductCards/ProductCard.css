@@ -1,0 +1,49 @@
+.p-card-item{
+    position: relative !important;
+    margin: 20px 20px;
+    padding: 0 !important;
+}
+.p-card-btn{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.p-cart-btn{
+    background-color: green !important;
+    display: flex !important;
+    align-items: center !important;
+}
+.p-cart-icon{
+    font-size: 25px;
+    margin: 5px;
+}
+.p-card-title{
+    font-size: 12px !important;
+    color: #adadad !important;
+    margin: 0 !important;
+}
+.p-card-desc{
+    color: #253D4E !important;
+    font-size: medium !important;
+    font-weight: bold;
+    margin: 0;
+    font-family: "Reddit Mono", monospace !important;
+    
+}
+/* .fa-star::before {
+    color: orange;
+  } */
+  .checked{
+    color: orange;
+  }
+  .fa-star-o::before{
+    color: orange;
+  }
+ 
+.p-card-company{
+    font-size: medium;
+    color: #adadad ;
+}
+.p-card-company span{
+    color: rgb(108, 176, 106);
+}
